@@ -27,4 +27,3 @@ Without setup, the form still works and shows a simulated success message.
 
 Open `index.html` in a browser.
 
-Temporary test change
